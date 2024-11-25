@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Stephanie Maru_A3/1.0.0": {
+        "runtime": {
+          "Stephanie Maru_A3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stephanie Maru_A3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
